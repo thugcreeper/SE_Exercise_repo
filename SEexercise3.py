@@ -1,0 +1,2 @@
+print ('aabbcc')
+print ('ddeeff')
